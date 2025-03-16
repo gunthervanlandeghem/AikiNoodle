@@ -1,2 +1,2 @@
-# AikiNoodle
+# Aiki Noodle
 Demo Aikido Security
